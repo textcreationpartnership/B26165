@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the mayor. To the alderman of the ward of [blank] whereas by the laws abd statutes of this realm, all persons without reasonable excuse are on the Lords-Day to repair to some publick church and there continue and behave themselves orderly and reverently during the time of divine service and other publick worship and service of God ...</title>
+            <author>City of London (England). Lord Mayor.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26165</idno><idno type="EEBO-CITATION">24037654</idno>
+  <idno type="VID">205681</idno>
+  <idno type="EEBO-PROQUEST">2248551013</idno>
+  
+            <idno type="STC">Wing L2886F</idno>
+            <idno type="OCLC">24037654</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205681)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1705:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the mayor. To the alderman of the ward of [blank] whereas by the laws abd statutes of this realm, all persons without reasonable excuse are on the Lords-Day to repair to some publick church and there continue and behave themselves orderly and reverently during the time of divine service and other publick worship and service of God ...</title>
+                  <author>City of London (England). Lord Mayor.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Second part of title taken from first two lines of text.</note>
+                  <note>Signed at end: This 15.th day of February, in the XXXV year of His Majesty's reign. Wagstaffe.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sabbath legislation --  England.</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:205681:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of London</figDesc>
+               </figure> By the Mayor.</head>
+            <head>
+               <hi>To Alderman of the Ward of</hi>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by the <hi>Laws</hi> and <hi>Statutes</hi> of this Realm, All Persons without Reasonable Excuse, are on the <hi>Lords-Day</hi> to repair to some publick Church, and there continue and behave themselves Orderly and Reve<g ref="char:EOLhyphen"/>rently during the Time of <hi>Divine Service</hi> and other Publick Worship and service of God; Notwith-standing which, I am Informed, that some loose Persons frequently take a Liberty on that Day to resort to <hi>Taverns, Ale-Houses</hi> and other <hi>Victualing-Houses</hi> within this City, and there conti<g ref="char:EOLhyphen"/>nue Drinking and Tipling in the time that <hi>Divine service</hi> and Gods Publick Worship is celebrated; Which being Matter of great Scandal, requires the more earnest en<g ref="char:EOLhyphen"/>deavours for Reformation: And the Law having provided that every person that shall so continue Drinking and Tipling, shall forfeit <hi>Three shillings</hi> and <hi>Four pence,</hi> and the <hi>Victualler, Inn-keeper,</hi> or <hi>Ale-house-keeper</hi> that shall permit such Tipling in his House, shall Forfeit <hi>Ten shillings:</hi> These are therefore by the Advice of my Brethren the <hi>Alder<g ref="char:EOLhyphen"/>men,</hi> in his <hi>Majesty's</hi> Name to charge and require you, That you take all due care that the said Penalties be duly and constantly inflicted and levied upon all Persons that for the future shall Offend herein within your Ward; And that in order hereunto you call before you All the <hi>Constables</hi> and <hi>Churchwardens</hi> of the several Parishes within your Ward, and (delivering to each of them a Printed Copy of this Precept) strictly In<g ref="char:EOLhyphen"/>joyn them, That they or some of them fail not every <hi>Lords-day</hi> constantly in the time of <hi>Divine Service</hi> and Sermon, and at other times of the said Day to search all <hi>Taverns, Ale-Houses, and Victualling-Houses</hi> within their respective Precincts and Parishes; and where they find any Persons Tipling, contrary to the Law in this behalf, to require and receive from them and also from the <hi>Vintner, Victualler</hi> or <hi>Ale-House-keeper,</hi> in whose House the same shall be, the respective Penalties aforesaid, which the Law hath Dire<g ref="char:EOLhyphen"/>cted to be paid to the <hi>Churchwardens</hi> of the Parish, where the Offence is committed, for the Vse of the Poor of the said Parish: And if any Person or Persons shall refuse to pay the said Penalties, that then the <hi>Constable</hi> or <hi>Churchwarden</hi> deliver in their Names upon Oath to some <hi>Justice of Peace</hi> within this City, to the end Warrant may be from him Issued forth for the levying thereof by Distress, and such other course taken, as by Law is appointed. And that this may be the more punctually observed, You are very frequently to call upon and require the said <hi>Constables</hi> and <hi>Churchwardens</hi> to perform their Duty in this particular with all Care and Diligence, and to take from them an Account from time to time of their proceedings therein; And such of them as you shall find to be Remiss, that you Certify their Names to the general Sessions of the Peace held for this City, to the end they may be Prosecuted according to Law. And hereof fail not.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>This 15.<seg rend="sup">th.</seg> day of <hi>February,</hi> in the XXXV Year of his MAJESTY's Reign.</hi>
+                  </date>
+               </dateline>
+               <signed>WAGSTAFFE.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>SAMƲEL ROYCROFT,</hi> Printer to this Honourable City.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
